@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurav Bhusal</h1>
-<h3 align="center">A passionate full Stack Developer from Chitwan</h3>
+<h1 align="center">Hello 👋, I'm Saurav Bhusal</h1>
 
 - 🔭 I’m currently working on **NLP**
 
